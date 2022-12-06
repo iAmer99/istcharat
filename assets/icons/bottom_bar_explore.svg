@@ -1,0 +1,11 @@
+<svg id="bubble_broken" data-name="bubble/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_bubble" data-name="vuesax/broken/bubble">
+    <g id="bubble">
+      <path id="Vector" d="M5.13,10.26A5.13,5.13,0,1,0,0,5.13,5.059,5.059,0,0,0,1.28,8.51" transform="translate(10.46 2)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,3.08A3.08,3.08,0,1,0,3.08,0" transform="translate(3.28 13.28)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M5.12,2.56A2.56,2.56,0,1,1,2.56,0,2.56,2.56,0,0,1,5.12,2.56Z" transform="translate(14.06 16.88)" fill="none" stroke="#bcc0cf" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

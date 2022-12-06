@@ -1,0 +1,10 @@
+<svg id="direct-normal_bold" data-name="direct-normal/bold" xmlns="http://www.w3.org/2000/svg" width="25.68" height="25.68" viewBox="0 0 25.68 25.68">
+  <g id="vuesax_bold_direct-normal" data-name="vuesax/bold/direct-normal">
+    <g id="direct-normal">
+      <path id="Vector" d="M20.651,0H16.928a2.715,2.715,0,0,0-2.45,1.519l-.9,1.776a1.244,1.244,0,0,1-1.113.7H8.956a1.141,1.141,0,0,1-1.113-.7l-.9-1.766A2.746,2.746,0,0,0,4.494.011H.749A.744.744,0,0,0,0,.76V4.248c0,3.884,2.333,6.206,6.227,6.206h8.967c3.67,0,5.928-2.012,6.206-5.585V.749A.751.751,0,0,0,20.651,0Z" transform="translate(2.14 13.086)" fill="#0301ad"/>
+      <path id="Vector-2" data-name="Vector" d="M21.4,6.217V9.47a2.2,2.2,0,0,0-.749-.128H16.928a4.317,4.317,0,0,0-3.884,2.4l-.8,1.584H9.181l-.8-1.573A4.308,4.308,0,0,0,4.494,9.341H.749A2.2,2.2,0,0,0,0,9.47V6.217C0,2.322,2.322,0,6.217,0h8.967C19.078,0,21.4,2.322,21.4,6.217Z" transform="translate(2.14 2.14)" fill="#0301ad"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H25.68V25.68H0Z" fill="none" opacity="0"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H25.68V25.68H0Z" transform="translate(25.68 25.68) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

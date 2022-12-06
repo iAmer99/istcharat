@@ -1,0 +1,10 @@
+<svg id="status_broken" data-name="status/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_status" data-name="vuesax/broken/status">
+    <g id="status">
+      <path id="Vector" d="M0,0A10.007,10.007,0,0,0,7.53,6.82" transform="translate(2.45 14.97)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,8.98a10,10,0,0,1,19.9,0" transform="translate(2.05 2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,6.78A10.023,10.023,0,0,0,7.53,0" transform="translate(14.01 15.02)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="174" viewBox="0 0 174 174">
+    <defs>
+        <filter id="omcrcvg7za" x="0" y="0" width="174" height="174" filterUnits="userSpaceOnUse">
+            <feOffset dy="4"/>
+            <feGaussianBlur stdDeviation="20" result="blur"/>
+            <feFlood flood-opacity=".302"/>
+            <feComposite operator="in" in2="blur"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g style="filter:url(#omcrcvg7za)">
+        <rect data-name="Bg" width="54" height="54" rx="27" transform="translate(60 56)" style="fill:#fff;opacity:.2"/>
+    </g>
+    <g data-name="Speaker">
+        <path d="M8.152 0 3.623 3.623H0v5.435h3.623l4.529 3.623z" transform="translate(80 77.369)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+        <path data-name="Vector" d="M0 0a4.529 4.529 0 0 1 1.326 3.2A4.529 4.529 0 0 1 0 6.4" transform="translate(92.264 80.503)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px"/>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="notification-status_broken" data-name="notification-status/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_notification-status" data-name="vuesax/broken/notification-status">
+    <g id="notification-status">
+      <path id="Vector" d="M0,0H5" transform="translate(7 13)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H9" transform="translate(7 17)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M3,0A3,3,0,1,0,6,3a2.787,2.787,0,0,0-.18-1.01" transform="translate(16 2)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,4.97V5c0,5,2,7,7,7h6c5,0,7-2,7-7V0" transform="translate(2 10)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M12,0H7C2,0,0,2,0,7V9" transform="translate(2 2)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-6" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

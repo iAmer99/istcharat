@@ -1,0 +1,8 @@
+<svg id="play_broken" data-name="play/broken" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="vuesax_broken_play" data-name="vuesax/broken/play">
+    <g id="play">
+      <path id="Vector" d="M10.233,3.54c2.985,1.737,2.985,4.583,0,6.321l-2.408,1.4-2.408,1.4C2.439,14.4,0,12.974,0,9.5V3.9C0,.427,2.439-1,5.424.741L7.178,1.763" transform="translate(3.563 3.097)" fill="none" stroke="#fff8f0" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H19.6V19.6H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

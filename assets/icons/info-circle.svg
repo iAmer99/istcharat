@@ -1,0 +1,10 @@
+<svg id="info-circle_broken" data-name="info-circle/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_info-circle" data-name="vuesax/broken/info-circle">
+    <g id="info-circle">
+      <path id="Vector" d="M0,0V5" transform="translate(12 8)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M2,4a10,10,0,1,0,8-4A9.865,9.865,0,0,0,5.97.85" transform="translate(2 2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H.009" transform="translate(11.995 16)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

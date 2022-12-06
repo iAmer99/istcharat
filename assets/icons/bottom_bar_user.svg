@@ -1,0 +1,9 @@
+<svg id="user_broken" data-name="user/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_user" data-name="vuesax/broken/user">
+    <g id="user">
+      <path id="Vector" d="M8.02,1.01A4.944,4.944,0,0,0,5,0a5,5,0,1,0,5,5" transform="translate(7 2)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M17.18,7c0-3.87-3.85-7-8.59-7S0,3.13,0,7" transform="translate(3.41 15)" fill="none" stroke="#bcc0cf" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

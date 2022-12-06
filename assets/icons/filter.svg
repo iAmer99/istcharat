@@ -1,0 +1,15 @@
+<svg id="filter-edit_broken" data-name="filter-edit/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_filter-edit" data-name="vuesax/broken/filter-edit">
+    <g id="filter-edit">
+      <g id="Group">
+        <path id="Vector" d="M0,0H13.34a2.027,2.027,0,0,1,2.02,2.02V4.24a3.773,3.773,0,0,1-1.01,2.32" transform="translate(5.33 2)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M10.1,14.34l-1.41.91a2.058,2.058,0,0,1-3.13-1.72V8.18a3.834,3.834,0,0,0-.81-2.12L.91,2.02A3.323,3.323,0,0,1,0,0" transform="translate(3.31 6.45)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <g id="Group-2" data-name="Group">
+        <path id="Vector-3" data-name="Vector" d="M4.039.573.5,4.113a1.232,1.232,0,0,0-.3.59l-.19,1.35a.635.635,0,0,0,.76.76l1.35-.19a1.189,1.189,0,0,0,.59-.3l3.54-3.54a1.365,1.365,0,0,0,0-2.22A1.36,1.36,0,0,0,4.039.573Z" transform="translate(13.041 11.317)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M0,0A3.185,3.185,0,0,0,2.22,2.22" transform="translate(16.58 12.39)" fill="none" stroke="#292d32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(24 24) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="timer_bold" data-name="timer/bold" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bold_timer" data-name="vuesax/bold/timer">
+    <g id="timer">
+      <path id="Vector" d="M11.991,3.67,7.951,0H5.241L1.2,3.67a3.6,3.6,0,0,0-.95,4.01A3.631,3.631,0,0,0,3.651,10h5.89a3.635,3.635,0,0,0,2.45-6.33ZM8.421,6.14H4.781a.68.68,0,1,1,0-1.36h3.64a.68.68,0,1,1,0,1.36Z" transform="translate(5.399 12)" fill="#0301ad"/>
+      <path id="Vector-2" data-name="Vector" d="M12.944,2.32A3.631,3.631,0,0,0,9.544,0h-5.9A3.63,3.63,0,0,0,1.2,6.33L5.244,10h2.71l4.04-3.67A3.635,3.635,0,0,0,12.944,2.32ZM8.414,5.23H4.774a.68.68,0,1,1,0-1.36h3.64a.68.68,0,1,1,0,1.36Z" transform="translate(5.406 2)" fill="#0301ad"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(24 24) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="simcard-2_bold" data-name="simcard-2/bold" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_bold_simcard-2" data-name="vuesax/bold/simcard-2">
+    <g id="simcard-2">
+      <path id="Vector" d="M14,6.27v5.39a3.674,3.674,0,0,1-3.89,3.89H3.89A3.674,3.674,0,0,1,0,11.66V3.89A3.674,3.674,0,0,1,3.89,0H7.72a3.891,3.891,0,0,1,2.75,1.14l2.39,2.38A3.891,3.891,0,0,1,14,6.27Z" transform="translate(2 6.42)" fill="#0301ad"/>
+      <path id="Vector-2" data-name="Vector" d="M13.98,6.28v5.39a3.679,3.679,0,0,1-3.89,3.89H8.98V10.72A4.923,4.923,0,0,0,7.55,7.26L5.16,4.88A4.923,4.923,0,0,0,1.7,3.45H0A3.647,3.647,0,0,1,3.87,0H7.7a3.891,3.891,0,0,1,2.75,1.14l2.39,2.39A3.891,3.891,0,0,1,13.98,6.28Z" transform="translate(8.02 1.97)" fill="#0301ad"/>
+      <path id="Vector-3" data-name="Vector" d="M0,0H24V24H0Z" transform="translate(24 24) rotate(180)" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

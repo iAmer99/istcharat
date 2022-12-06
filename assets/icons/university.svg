@@ -1,0 +1,10 @@
+<svg id="teacher_broken" data-name="teacher/broken" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="vuesax_broken_teacher" data-name="vuesax/broken/teacher">
+    <g id="teacher">
+      <path id="Vector" d="M2.278,2.108l-1.313.86a2.124,2.124,0,0,0,0,3.56l4.013,2.62a2.607,2.607,0,0,0,2.627,0L11.6,6.528a2.124,2.124,0,0,0,0-3.553L7.6.355a2.607,2.607,0,0,0-2.627,0" transform="translate(1.722 1.338)" fill="none" stroke="#a9aeb2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-2" data-name="Vector" d="M.007,0,0,3.127a2.274,2.274,0,0,0,1.453,2.02l2.127.707a2.564,2.564,0,0,0,1.347,0l2.127-.707a2.274,2.274,0,0,0,1.453-2.02V.033" transform="translate(3.747 8.72)" fill="none" stroke="#a9aeb2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-3" data-name="Vector" d="M0,4V0" transform="translate(14.267 6)" fill="none" stroke="#a9aeb2" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H16V16H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
